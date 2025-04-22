@@ -15,7 +15,7 @@ No tokens. No rewards. Just game logic, rallies, and the thrill of scoring — a
 
 ---
 
-## 📜 How It Works
+## 📜 How It Works 
 
 1. Two players join the game using `joinGame()`.
 2. The first player becomes the server.
